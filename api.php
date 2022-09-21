@@ -43,7 +43,7 @@ if (strlen($ano) == 2) $ano = "20$ano";
 
 //put you sk_live keys here
 $skeys = array(
-1 => 'sk_live_g35tYU6wS0rjNhOi9O2606Cl00xvReYnIA',
+1 => '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',
 );
     $skey = array_rand($skeys);
     $sk = $skeys[$skey];
